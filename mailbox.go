@@ -142,6 +142,7 @@ func (info *MailboxInfo) Match(reference, pattern string) bool {
 
 // A mailbox status.
 type MailboxStatus struct {
+	VaiFuncionar string
 	// The mailbox name.
 	Name string
 	// True if the mailbox is open in read-only mode.
