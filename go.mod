@@ -6,5 +6,3 @@ require (
 	github.com/stretchr/testify v1.3.0 // indirect
 	golang.org/x/text v0.3.2
 )
-
-replace github.com/emersion/go-imap => ./
