@@ -7,4 +7,4 @@ require (
 	golang.org/x/text v0.3.2
 )
 
-replace github.com/emersion/go-imap => /var/lib/dinamize/dev/nicolas.correa/github.com/nicolascb/go-imap
+replace github.com/emersion/go-imap => ./
