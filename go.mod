@@ -1,4 +1,4 @@
-module github.com/nicolascb/go-imap
+module github.com/emersion/go-imap
 
 require (
 	github.com/emersion/go-message v0.10.5
@@ -7,4 +7,4 @@ require (
 	golang.org/x/text v0.3.2
 )
 
-replace github.com/emersion/go-imap => github.com/nicolascb/go-imap v0.0.0-20190806100001-6d1d7cb
+replace github.com/emersion/go-imap => ./
